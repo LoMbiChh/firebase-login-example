@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527004049978",
+    "firebase_url": "https://fir-xample-d3595-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-xample-d3595",
+    "storage_bucket": "fir-xample-d3595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527004049978:android:2c42565c769eaed1d14b03",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloginexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527004049978-3ptj98s7euhd7v3lfj1ktlrgk09pn9dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLzvTZ9znQ1YXbdxJRYdBdm5AIZI4JpWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527004049978-3ptj98s7euhd7v3lfj1ktlrgk09pn9dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
